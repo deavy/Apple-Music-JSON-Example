@@ -1,2 +1,4 @@
 # Apple-Music-JSON-Example
-Apple Music JSON Example from iTunes for Mac
+Apple Music JSON Example 
+
+Source: iTunes for Mac
